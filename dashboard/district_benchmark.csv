@@ -1,0 +1,57 @@
+district_name,room_type,median_price,median_occupancy,listing_count,pct25_price,pct75_price
+Arganzuela,Entire home/apt,114.0,150.0,658,90.0,150.0
+Arganzuela,Hotel room,33.0,0.0,1,33.0,33.0
+Arganzuela,Private room,55.0,84.0,204,45.0,72.0
+Arganzuela,Shared room,25.0,108.0,5,23.0,59.0
+Barajas,Entire home/apt,106.0,136.0,53,91.0,135.0
+Barajas,Private room,52.5,255.0,32,41.0,62.25
+Barajas,Shared room,32.0,255.0,3,32.0,36.0
+Carabanchel,Entire home/apt,90.0,108.0,311,76.0,124.0
+Carabanchel,Private room,38.0,60.0,207,32.0,47.0
+Carabanchel,Shared room,22.0,66.0,6,15.0,37.25
+Centro,Entire home/apt,143.0,132.0,5089,108.0,200.0
+Centro,Hotel room,156.5,0.0,30,142.0,181.5
+Centro,Private room,70.0,78.0,1193,52.0,116.0
+Centro,Shared room,33.0,39.0,56,21.0,42.0
+Chamartin,Entire home/apt,127.0,102.0,327,101.0,162.0
+Chamartin,Private room,54.0,72.0,65,42.0,66.0
+Chamberi,Entire home/apt,141.5,78.0,508,108.0,189.0
+Chamberi,Hotel room,140.5,18.0,6,126.75,144.5
+Chamberi,Private room,58.5,48.0,190,48.0,80.0
+Chamberi,Shared room,30.0,255.0,3,29.5,53.0
+Ciudad Lineal,Entire home/apt,103.5,110.0,328,84.0,131.25
+Ciudad Lineal,Hotel room,31.0,255.0,1,31.0,31.0
+Ciudad Lineal,Private room,43.0,72.0,180,33.0,55.0
+Fuencarral-El Pardo,Entire home/apt,98.0,52.0,110,84.0,133.5
+Fuencarral-El Pardo,Private room,41.0,60.0,68,35.0,53.25
+Hortaleza,Entire home/apt,107.5,68.0,190,85.25,149.25
+Hortaleza,Hotel room,62.5,42.0,2,61.75,63.25
+Hortaleza,Private room,45.0,66.0,105,34.0,60.0
+Latina,Entire home/apt,97.0,90.0,172,80.0,124.0
+Latina,Private room,38.0,90.0,177,28.0,47.0
+Moncloa-Aravaca,Entire home/apt,136.0,96.0,230,98.0,195.0
+Moncloa-Aravaca,Private room,53.5,84.0,138,39.0,80.75
+Moncloa-Aravaca,Shared room,283.0,18.0,1,283.0,283.0
+Moratalaz,Entire home/apt,98.0,126.0,25,89.0,125.0
+Moratalaz,Private room,35.0,40.0,49,26.0,45.0
+Puente de Vallecas,Entire home/apt,91.0,90.0,257,75.0,134.0
+Puente de Vallecas,Private room,40.0,66.0,201,29.0,56.0
+Puente de Vallecas,Shared room,31.5,140.0,2,24.75,38.25
+Retiro,Entire home/apt,148.0,102.0,383,113.5,202.0
+Retiro,Private room,48.0,90.0,147,34.5,69.5
+Salamanca,Entire home/apt,153.0,96.0,738,111.0,222.0
+Salamanca,Private room,55.0,60.0,134,42.0,91.5
+San Blas,Entire home/apt,89.0,103.0,186,76.0,108.75
+San Blas,Private room,40.0,90.0,110,34.0,58.5
+Tetuan,Entire home/apt,117.5,79.0,710,93.0,154.0
+Tetuan,Private room,52.0,42.0,185,40.0,82.0
+Tetuan,Shared room,25.0,27.0,28,25.0,25.0
+Usera,Entire home/apt,93.0,80.0,181,80.0,115.0
+Usera,Private room,40.0,72.0,135,31.0,49.0
+Usera,Shared room,46.0,24.0,3,31.5,46.0
+Vicalvaro,Entire home/apt,110.0,120.0,19,84.5,139.5
+Vicalvaro,Private room,41.0,60.0,27,35.0,47.5
+Villa de Vallecas,Entire home/apt,94.0,126.0,41,73.0,106.0
+Villa de Vallecas,Private room,35.0,105.0,22,32.25,42.25
+Villaverde,Entire home/apt,90.0,48.0,62,78.25,109.0
+Villaverde,Private room,35.5,54.0,58,27.25,48.5

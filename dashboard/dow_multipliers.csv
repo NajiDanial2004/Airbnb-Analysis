@@ -1,0 +1,8 @@
+day_of_week,day_name,multiplier,pct_change
+0,Monday,0.9921,-0.8
+1,Tuesday,0.9856,-1.4
+2,Wednesday,0.9862,-1.4
+3,Thursday,0.993,-0.7
+4,Friday,1.0177,1.8
+5,Saturday,1.0265,2.6
+6,Sunday,0.999,-0.1
